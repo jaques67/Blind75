@@ -24,5 +24,20 @@ https://www.techinterviewhandbook.org/grind75
 ## Week 2
 
 1. First Bad Version - Easy - 20 min
+2. Ransom Note - Easy - 15 min
+3. Climbing Stairs - Easy - 20 min
+4. Longest Palindrome - Easy - 20 min
+5. Reverse Linked List - Easy - 20 min
+6. Majority Element - Easy - 20 min
+7. Add Binary - Easy - 15 min
+8. Diameter of Binary Tree - Easy - 30 min
+9. Middle of the Linked List - Easy - 20 min
+10. Maximum Depth of Binary Tree - Easy - 15 min
+11. Contains Duplicate - Easy - 15 min
+12. Maximum Subarray - Medium - 20 min
+
+## Week 3
+
+1. Insert Interval - Medium - 25 min
 
 
